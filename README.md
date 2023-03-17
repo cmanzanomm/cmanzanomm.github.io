@@ -1,9 +1,5 @@
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Nombre del sitio de noticias</title>
-	<link rel="stylesheet" href="ruta/a/la/hoja/de/estilos.css">
-</head>
+
 <body>
 <header>
 	<h1>Nombre del sitio de noticias</h1>
