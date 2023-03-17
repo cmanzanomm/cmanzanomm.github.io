@@ -3,7 +3,7 @@
 <body>
 <header>
 	<h1>Carlos Manzano Munizaga
-PhD Student
+PhD Student <br>
 Department of Informatics
 Universidad Técnica Federico Santa María, Chile</h1>
 	<nav>
