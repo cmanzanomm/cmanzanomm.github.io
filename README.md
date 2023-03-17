@@ -2,7 +2,10 @@
 
 <body>
 <header>
-	<h1>Nombre del sitio de noticias</h1>
+	<h1>Carlos Manzano Munizaga
+PhD Student
+Department of Informatics
+Universidad Técnica Federico Santa María, Chile</h1>
 	<nav>
 		<ul>
 			<li><a href="#">Inicio</a></li>
