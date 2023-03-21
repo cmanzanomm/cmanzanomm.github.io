@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: This is the Way - Carlos Manzano Munizaga
+title: This is the Way - PhD Student Carlos Manzano Munizaga
 email: cmanzanom@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
