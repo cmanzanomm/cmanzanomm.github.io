@@ -3,7 +3,16 @@ author:
   name: Carlos Manzano Munizaga
   email: cmanzanom@gmail.com
 
-
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://medium.com/@cmanzanom" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: cmanzanom
+github_username:  cmanzanomm
+instagram_username: academiait_eic
+linkedin_username: carlos-manzano-munizaga-874a5835
 
 # Build settings
 theme: minima
@@ -37,14 +46,11 @@ minima:
   #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-linkedin_username: carlos-manzano-munizaga-874a5835
-github_username:  cmanzanomm
-instagram_username: academiait_eic
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-#header_pages:
+# header_pages:
 #   - about.md
 
 # Set to `true` to show excerpts on the homepage.
