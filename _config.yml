@@ -20,10 +20,13 @@
 
 title: Carlos Manzano M. - Ph.D. Student in Computer Science & Cybersecurity
 email: cmanzanom@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-I'am Carlos PhD Student in Computer Science and I play the bass and sometime I play the fool
-  baseurl: "" # the subpath of your site, e.g. /blog
+
+description: 
+I'm Carlos and I play the bass and sometime I play the fool
+
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 linkedin_username: carlos-manzano-munizaga-874a5835
 github_username:  cmanzanomm
 instagram_username: academiait_eic
